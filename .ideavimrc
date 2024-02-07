@@ -73,3 +73,7 @@ map     <leader>gd          <Action>(GotoDeclaration)
 map     <leader>gu          <Action>(FindUsages)
 map     <leader>ci          <Action>(ReSharperGotoImplementation)
 map     <leader>em          <Action>(ExtractMethod)
+
+map     g                   <Action>(AceAction)
+"map     F                   <Action>(AceTargetAction)
+"map     g                   <Action>(AceLineAction)
